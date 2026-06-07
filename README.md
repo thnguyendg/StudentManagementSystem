@@ -77,7 +77,7 @@ git clone <repository-url>
 3. Run the application
 
 ```bash
-python main.py
+python StudentManagement.py
 ```
 
 or
